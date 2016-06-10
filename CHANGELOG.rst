@@ -1,0 +1,8 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package smarthome_msgs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0.1.1 (2016-06-10)
+------------------
+* Initial commit.
+* Contributors: Mickael Gaillard
