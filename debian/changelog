@@ -1,0 +1,24 @@
+ros-indigo-smarthome-msgs (0.1.3-0saucy) saucy; urgency=high
+
+  * Update Readme
+  * Merge branch 'master' of github.com:rosalfred/smarthome_msgs
+  * Update eclipse project.
+  * Contributors: Mickael Gaillard
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Mon, 20 Jun 2016 22:00:00 -0000
+
+ros-indigo-smarthome-msgs (0.1.2-0saucy) saucy; urgency=high
+
+  * Rename Info message
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Fri, 10 Jun 2016 22:00:00 -0000
+
+ros-indigo-smarthome-msgs (0.1.1-0saucy) saucy; urgency=high
+
+  * Initial commit.
+  * Contributors: Mickael Gaillard
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Thu, 09 Jun 2016 22:00:00 -0000
+
+
